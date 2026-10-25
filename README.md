@@ -3,8 +3,6 @@
 > A writing skill for mathematical modeling contest papers (CUMCM / MCM-ICM).
 > **The author used this skill to write his own contest paper and won the Beijing First Prize (北京市一等奖) of the China Undergraduate Mathematical Contest in Modeling (CUMCM).**
 
-[中文版](./README.md) | English
-
 ---
 
 ## What it is
